@@ -1,4 +1,4 @@
-<img src="https://github.com/whiititi/docs/blob/master/eligion.png?raw=true" alt="FA"/> <img src="https://github.com/whiititi/docs/blob/master/coursera.png?raw=true" alt="FA"/>
+<img src="https://github.com/whiititi/docs/blob/master/elegion.png?raw=true" alt="FA"/> <img src="https://github.com/whiititi/docs/blob/master/coursera.png?raw=true" alt="FA"/>
 
 ### Practice for the course Multithreading and Networking in Android ###
 
