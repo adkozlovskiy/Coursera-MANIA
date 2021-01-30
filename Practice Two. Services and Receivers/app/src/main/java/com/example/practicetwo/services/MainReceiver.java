@@ -28,7 +28,6 @@ public class MainReceiver extends BroadcastReceiver {
         ProgressBar progressBar = progressBarWeakReference.get();
         Button button = buttonWeakReference.get();
 
-        Log.d("test", "onReceive: pr" + progressBar.getProgress());
         if (progressBar.getProgress() == 100) {
             Toast.makeText(context, "Loading completed!", Toast.LENGTH_SHORT).show();
         } else {
