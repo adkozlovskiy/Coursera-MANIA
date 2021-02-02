@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add_text"
+        android:icon="@drawable/ic_baseline_text_fields_24"
+        android:orderInCategory="1"
+        android:title="Добавить текст"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_add_image"
+        android:icon="@drawable/ic_baseline_image_24"
+        android:orderInCategory="2"
+        android:title="Добавить фото"
+        app:showAsAction="ifRoom" />
+</menu>
