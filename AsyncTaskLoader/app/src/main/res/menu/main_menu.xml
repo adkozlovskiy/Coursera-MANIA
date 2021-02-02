@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_cancel_loading"
+        android:icon="@drawable/ic_baseline_cancel_schedule_send_24"
+        android:orderInCategory="1"
+        android:title="Отменить запрос"
+        app:showAsAction="ifRoom" />
+</menu>

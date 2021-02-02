@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerTest</string>
+    <string name="error_text">Что-то пошло не так. Попробуйте еще раз.</string>
+</resources>
