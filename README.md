@@ -1,4 +1,4 @@
-<img src="https://github.com/whiititi/docs/blob/master/coursera.png?raw=true" alt="FA"/> 
+<img src="https://i.imgur.com/zup2KHh.png" alt="FA"/> 
 
 ### Practices for the course multithreading and networking in android ###
 
